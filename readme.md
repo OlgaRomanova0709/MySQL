@@ -1,6 +1,6 @@
 # SQL challenge
 
-## Solve the queries using sakila Database to develop a greater fluency in SQL, an important database language. Below are the tables listed as part of Sakila Database.
+## Solved the queries using sakila Database to develop a greater fluency in SQL.
 
 * 1a. Display the first and last names of all actors from the table `actor`.
 
